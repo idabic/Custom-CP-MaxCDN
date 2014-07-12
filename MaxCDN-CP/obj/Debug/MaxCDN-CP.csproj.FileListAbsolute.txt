@@ -1,0 +1,12 @@
+C:\Users\idabic\Documents\Visual Studio 2013\Projects\MaxCDN-CP\MaxCDN-CP\bin\Debug\MaxCDN-CP.exe.config
+C:\Users\idabic\Documents\Visual Studio 2013\Projects\MaxCDN-CP\MaxCDN-CP\bin\Debug\MaxCDN-CP.exe
+C:\Users\idabic\Documents\Visual Studio 2013\Projects\MaxCDN-CP\MaxCDN-CP\bin\Debug\MaxCDN-CP.pdb
+C:\Users\idabic\Documents\Visual Studio 2013\Projects\MaxCDN-CP\MaxCDN-CP\bin\Debug\MaxCDN.dll
+C:\Users\idabic\Documents\Visual Studio 2013\Projects\MaxCDN-CP\MaxCDN-CP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\idabic\Documents\Visual Studio 2013\Projects\MaxCDN-CP\MaxCDN-CP\obj\Debug\MaxCDN-CP.csprojResolveAssemblyReference.cache
+C:\Users\idabic\Documents\Visual Studio 2013\Projects\MaxCDN-CP\MaxCDN-CP\obj\Debug\MaxCDN_CP.Form1.resources
+C:\Users\idabic\Documents\Visual Studio 2013\Projects\MaxCDN-CP\MaxCDN-CP\obj\Debug\MaxCDN_CP.Properties.Resources.resources
+C:\Users\idabic\Documents\Visual Studio 2013\Projects\MaxCDN-CP\MaxCDN-CP\obj\Debug\MaxCDN-CP.csproj.GenerateResource.Cache
+C:\Users\idabic\Documents\Visual Studio 2013\Projects\MaxCDN-CP\MaxCDN-CP\obj\Debug\MaxCDN-CP.exe
+C:\Users\idabic\Documents\Visual Studio 2013\Projects\MaxCDN-CP\MaxCDN-CP\obj\Debug\MaxCDN-CP.pdb
+C:\Users\idabic\Documents\Visual Studio 2013\Projects\MaxCDN-CP\MaxCDN-CP\obj\Debug\MaxCDN_CP.CreateAZone.resources
